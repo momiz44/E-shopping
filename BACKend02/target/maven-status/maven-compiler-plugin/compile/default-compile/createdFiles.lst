@@ -1,0 +1,11 @@
+com\niit\BACKend02\App.class
+com\niit\dao\SupplierDAO.class
+com\niit\model\Product.class
+com\niit\model\Supplier.class
+com\niit\daoimpl\SupplierDAOImpl.class
+com\niit\dao\ProductDAO.class
+com\niit\daoimpl\ProductDAOImpl.class
+com\niit\configuration\DBConfig.class
+com\niit\model\Category.class
+com\niit\daoimpl\CategoryDAOImpl.class
+com\niit\dao\CategoryDAO.class
